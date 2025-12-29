@@ -9,3 +9,6 @@
 
 ## 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkrishAcharya&layout=compact&theme=tokyonight)
+## 📈 Contributions
+![Metrics](https://metrics.lecoq.io/utkrishAcharya)
+
