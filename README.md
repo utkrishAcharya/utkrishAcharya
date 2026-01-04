@@ -5,10 +5,10 @@
 - 🚀 Interested in open source  
 
 ## 📊 GitHub Stats
-![Utkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkrishAcharya&show_icons=true&theme=tokyonight)
+![Utkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkrisht3108&show_icons=true&theme=tokyonight)
 
 ## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkrishAcharya&layout=compact&theme=tokyonight)
-## 📈 Contributions
-![Metrics](https://metrics.lecoq.io/utkrishAcharya)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkrisht3108&layout=compact&theme=tokyonight)
 
+## 📈 Contributions
+![Metrics](https://metrics.lecoq.io/utkrisht3108)
