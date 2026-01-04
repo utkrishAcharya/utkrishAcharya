@@ -4,11 +4,12 @@
 - 🌱 Exploring new technologies  
 - 🚀 Interested in open source
 
-## 📊 GitHub Stats (Alternate)
-![Utkrish's GitHub stats](https://github-readme-stats.zcy.dev/api?username=utkrisht3108&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+![Utkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-## 🧠 Most Used Languages (Alternate)
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=utkrisht3108&layout=compact&theme=tokyonight)
+## 🧠 Most Used Languages (Java Focus)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide=JavaScript,python,html,css&custom_title=Java%20Usage)
 
-## 📈 Contributions (gitMyStat)
-![Contributions](https://gitmystat.vercel.app/api?username=utkrisht3108&theme=tokyonight)
+## 📈 Contributions
+![Metrics](https://metrics.lecoq.io/YOUR_USERNAME)
+
