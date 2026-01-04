@@ -5,11 +5,10 @@
 - 🚀 Interested in open source
 
 ## 📊 GitHub Stats
-![Utkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Utkrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkrishAcharya&show_icons=true&theme=tokyonight)
 
-## 🧠 Most Used Languages (Java Focus)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide=JavaScript,python,html,css&custom_title=Java%20Usage)
+## 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkrishAcharya&layout=compact&theme=tokyonight)
 
 ## 📈 Contributions
-![Metrics](https://metrics.lecoq.io/YOUR_USERNAME)
-
+![Metrics](https://metrics.lecoq.io/utkrishAcharya)
