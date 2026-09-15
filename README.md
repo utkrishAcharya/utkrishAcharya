@@ -64,9 +64,19 @@ My personal developer portfolio showcasing my skills, projects, and learning jou
 
 ## 📊 GitHub Stats
 
-![Utkrish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkrishAcharya&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkrishAcharya&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=utkrishAcharya&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkrishAcharya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
+
+</div>
+
+---
+
+## ☕ My Top Language
+
+Currently, **Java** is one of my main programming languages, and I'm continuously improving my skills in Java, Object-Oriented Programming, Spring Boot, and backend development.
 
 ---
 
@@ -84,3 +94,5 @@ Learning From Them
 Improving Every Day
    ↓
 Becoming a Software Developer 🚀
+```
+
